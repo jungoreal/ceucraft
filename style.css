@@ -191,3 +191,7 @@ figcaption{
     color: rgb(255,0,255);
     display: inline-block;
 }
+
+.sited{
+    font-weight: 700;
+}
